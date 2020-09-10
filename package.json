@@ -1,17 +1,19 @@
 {
   "name": "alioss-upload-multi-env",
-  "version": "1.0.0",
-  "description": "an alioss tool that supports uploading files to multiple envirments.",
+  "version": "1.0.1",
+  "description": "An alioss tool that supports uploading files to multiple envirments.",
   "main": "index.js",
   "bin": "bin/alioss-upload-multi-env.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "alioss",
     "alioss-upload"
   ],
   "author": "guo5283796@163.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guoshuai93/alioss-upload-multi-env"
+  },
   "license": "ISC",
   "dependencies": {
     "ali-oss": "^6.1.1",
